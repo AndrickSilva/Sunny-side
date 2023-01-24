@@ -8,6 +8,8 @@ module.exports = {
       colors: {
       },
       fontFamily: {
+        Barl: ["Barlow"],
+        Frau: ["Fraunces"],
       }
     },
   },
