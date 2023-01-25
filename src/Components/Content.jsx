@@ -5,11 +5,11 @@ const Content = () => {
     <>
       <div className="flex items-center justify-center">
         <div className="flex flex-col w-2/4 px-28 py-10 gap-7">
-          <h1 className='font-Frau font-extrabold text-2xl text-blue-900'>Transform your brand</h1>
-          <p className='text-slate-400 font-light text-sm'>We are a full-service creative agency specializing in helping brands grow fast.
+          <h1 className='font-Frau font-extrabold text-4xl text-blue-900 w-80'>Transform your brand</h1>
+          <p className='text-slate-400 font-light text-lg '>We are a full-service creative agency specializing in helping brands grow fast.
             Engage your clients through compelling visuals that do most of the marketing for you.
           </p>
-          <p className='font-bold font-Frau uppercase text-xs underline decoration-4 decoration-yellow-200'>Learn more</p>
+          <p className='font-bold font-Frau uppercase text-xs underline decoration-4 decoration-yellow-200 hover:decoration-yellow-400 transition duration-150 cursor-pointer'>Learn more</p>
         </div>
         <div className="w-2/4">
           <img className='w-full' src="/public/desktop/image-transform.jpg" alt="" />
@@ -18,10 +18,10 @@ const Content = () => {
 
       <div className="flex items-center justify-center flex-row-reverse">
         <div className="flex flex-col w-2/4 px-28 py-10 gap-7">
-          <h1 className='font-Frau font-extrabold text-2xl text-blue-900'>Stand out to the right audience</h1>
-          <p className='text-slate-400 font-light text-sm'>  Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places.
+          <h1 className='font-Frau font-extrabold text-4xl text-blue-900 w-80'>Stand out to the right audience</h1>
+          <p className='text-slate-400 font-light text-lg '>  Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places.
           </p>
-          <p className='font-bold font-Frau uppercase text-xs underline decoration-4 decoration-yellow-200'>Learn more</p>
+          <p className='font-bold font-Frau uppercase text-xs underline decoration-4 decoration-red-300 hover:decoration-red-400 transition duration-150 cursor-pointer'>Learn more</p>
         </div>
         <div className="w-2/4">
           <img className='w-full' src="/public/desktop/image-stand-out.jpg" alt="" />

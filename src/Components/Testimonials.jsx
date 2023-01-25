@@ -13,14 +13,14 @@ const Testimonials = () => {
                     <p className='text-slate-400'>Marketing Director</p>
                 </div>
                 <div className="flex flex-col items-center gap-5">
-                    <img src="/public/image-emily.jpg" alt="profile" className='rounded-full h-14' />
+                    <img src="/public/image-thomas.jpg" alt="profile" className='rounded-full h-14' />
                     <p className='w-72 text-center text-slate-500'>  Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience.
                     </p>
                     <p className='font-Frau'>Thomas S.</p>
                     <p className='text-slate-400'>Chief Operating Officer</p>
                 </div>
                 <div className="flex flex-col items-center gap-5">
-                    <img src="/public/image-emily.jpg" alt="profile" className='rounded-full h-14' />
+                    <img src="/public/image-jennie.jpg" alt="profile" className='rounded-full h-14' />
                     <p className='w-72 text-center text-slate-500'>  Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!
                     </p>
                     <p className='font-Frau'>Jennie F.</p>
